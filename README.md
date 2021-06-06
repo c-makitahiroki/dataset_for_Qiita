@@ -1,1 +1,2 @@
 # dataset_for_Qiita
+Qiita投稿時にデータを添付する際に適宜使用する
